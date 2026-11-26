@@ -1,12 +1,15 @@
 # 订阅家 · Dingyuejia
 
-[订阅家](https://dingyuejia.com/)是一个中文 AI 会员订阅比价网站，收录 ChatGPT、Claude、Gemini 等服务的第三方商家报价。选择套餐后，可以比较人民币价格、库存、充值方式、到账时间和售后，并查看报价更新时间及历史走势。
+[订阅家](https://dingyuejia.com/)是一个中文 AI 会员订阅比价网站，收录 ChatGPT、Claude、Gemini 等服务的第三方代充报价。选择套餐后，可以比较人民币价格、库存、充值方式、到账时间和售后，并查看报价更新时间及历史走势。
 
-## 热门套餐
+## AI 会员代充详情与报价
 
-- [ChatGPT 套餐比价](https://dingyuejia.com/model/chatgpt) · [ChatGPT Plus 代充报价](https://dingyuejia.com/product/chatgpt-plus)
-- [Claude 套餐比价](https://dingyuejia.com/model/claude) · [Claude Pro 代充报价](https://dingyuejia.com/product/claude-pro)
-- [Gemini 套餐比价](https://dingyuejia.com/model/gemini) · [Google AI Pro 商家报价](https://dingyuejia.com/product/gemini-advanced)
+- **ChatGPT**：[ChatGPT Go](https://dingyuejia.com/product/chatgpt-go) · [ChatGPT Plus](https://dingyuejia.com/product/chatgpt-plus) · [ChatGPT Pro 5x](https://dingyuejia.com/product/chatgpt-pro-5x) · [ChatGPT Pro](https://dingyuejia.com/product/chatgpt-pro)
+- **Claude**：[Claude Pro](https://dingyuejia.com/product/claude-pro) · [Claude Max 5x](https://dingyuejia.com/product/claude-max-5x) · [Claude Max 20x](https://dingyuejia.com/product/claude-max-20x)
+- **Gemini**：[Google AI Plus](https://dingyuejia.com/product/google-ai-plus) · [Google AI Pro](https://dingyuejia.com/product/gemini-advanced) · [Google AI Ultra 5x](https://dingyuejia.com/product/google-ai-ultra-5x) · [Google AI Ultra 20x](https://dingyuejia.com/product/google-ai-ultra-20x)
+- **对话与搜索**：[Muse Power](https://dingyuejia.com/product/muse-power) · [Muse Maximum](https://dingyuejia.com/product/muse-maximum) · [SuperGrok](https://dingyuejia.com/product/supergrok) · [Perplexity Pro](https://dingyuejia.com/product/perplexity-pro)
+- **编程**：[Cursor Pro](https://dingyuejia.com/product/cursor-pro) · [GitHub Copilot Pro](https://dingyuejia.com/product/copilot-pro)
+- **图像、视频与音乐**：[Midjourney Standard](https://dingyuejia.com/product/midjourney-standard) · [可灵 Kling 会员](https://dingyuejia.com/product/kling) · [Runway Standard](https://dingyuejia.com/product/runway-standard) · [Suno Pro](https://dingyuejia.com/product/suno-pro)
 
 ## 报价怎么读
 
